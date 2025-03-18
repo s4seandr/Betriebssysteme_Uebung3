@@ -1,0 +1,4 @@
+com/zfs/test/ZfsManagerTest.class
+com/zfs/transactions/FileOperations.class
+com/zfs/transactions/TransactionManager.class
+com/zfs/transactions/ZfsManager.class
